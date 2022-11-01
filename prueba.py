@@ -1,5 +1,4 @@
-
-
+print("Hola")
 
 def test():
     import requests
